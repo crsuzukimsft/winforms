@@ -18,7 +18,7 @@
         {
           "SourceFile": "src\\Microsoft.VisualBasic.Forms\\src\\Resources\\xlf\\SR.xlf",
           "Languages": "",
-          "CopyOption": "LangIDOnName",
+          "CopyOption": "LangIDOnPath",
           "OutputPath": "src\\Microsoft.VisualBasic.Forms\\src\\Resources\\xlf\\",
           "LclFile": "src\\Microsoft.VisualBasic.Forms\\src\\Resources\\xlf\\{Lang}\\SR.xlf.lcl"
         }
