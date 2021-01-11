@@ -1,0 +1,256 @@
+{
+  "Projects": [
+    {
+      "LanguageSet": "VS_Main_Languages",
+      "LocItems": [
+        {
+          "SourceFile": "src\\Microsoft.VisualBasic.Forms\\src\\Resources\\xlf\\SR.xlf",
+          "Languages": "",
+          "CopyOption": "LangIDOnName",
+          "OutputPath": "src\\Microsoft.VisualBasic.Forms\\src\\Resources\\xlf\\",
+          "LclFile": "src\\Microsoft.VisualBasic.Forms\\src\\Resources\\xlf\\{Lang}\\SR.xlf.lcl"
+        }
+      ]
+    },
+    {
+      "LanguageSet": "VS_Main_Languages",
+      "LocItems": [
+        {
+          "SourceFile": "src\\Microsoft.VisualBasic.Forms\\src\\Resources\\xlf\\SR.xlf",
+          "Languages": "",
+          "CopyOption": "LangIDOnName",
+          "OutputPath": "src\\Microsoft.VisualBasic.Forms\\src\\Resources\\xlf\\",
+          "LclFile": "src\\Microsoft.VisualBasic.Forms\\src\\Resources\\xlf\\{Lang}\\SR.xlf.lcl"
+        }
+      ]
+    },
+    {
+      "LanguageSet": "VS_Main_Languages",
+      "LocItems": [
+        {
+          "SourceFile": "src\\System.Windows.Forms.Design\\src\\Resources\\xlf\\BorderSidesEditor.xlf",
+          "Languages": "",
+          "CopyOption": "LangIDOnName",
+          "OutputPath": "src\\System.Windows.Forms.Design\\src\\Resources\\xlf\\",
+          "LclFile": "src\\System.Windows.Forms.Design\\src\\Resources\\lcl\\{Lang}\\BorderSidesEditor.xlf.lcl"
+        }
+      ]
+    },
+    {
+      "LanguageSet": "VS_Main_Languages",
+      "LocItems": [
+        {
+          "SourceFile": "src\\System.Windows.Forms.Design\\src\\Resources\\xlf\\CollectionEditor.xlf",
+          "Languages": "",
+          "CopyOption": "LangIDOnName",
+          "OutputPath": "src\\System.Windows.Forms.Design\\src\\Resources\\xlf\\",
+          "LclFile": "src\\System.Windows.Forms.Design\\src\\Resources\\lcl\\{Lang}\\CollectionEditor.xlf.lcl"
+        }
+      ]
+    },
+    {
+      "LanguageSet": "VS_Main_Languages",
+      "LocItems": [
+        {
+          "SourceFile": "src\\System.Windows.Forms.Design\\src\\Resources\\xlf\\FormatControl.xlf",
+          "Languages": "",
+          "CopyOption": "LangIDOnName",
+          "OutputPath": "src\\System.Windows.Forms.Design\\src\\Resources\\xlf\\",
+          "LclFile": "src\\System.Windows.Forms.Design\\src\\Resources\\lcl\\{Lang}\\FormatControl.xlf.lcl"
+        }
+      ]
+    },
+    {
+      "LanguageSet": "VS_Main_Languages",
+      "LocItems": [
+        {
+          "SourceFile": "src\\System.Windows.Forms.Design\\src\\Resources\\xlf\\LinkAreaEditor.xlf",
+          "Languages": "",
+          "CopyOption": "LangIDOnName",
+          "OutputPath": "src\\System.Windows.Forms.Design\\src\\Resources\\xlf\\",
+          "LclFile": "src\\System.Windows.Forms.Design\\src\\Resources\\lcl\\{Lang}\\LinkAreaEditor.xlf.lcl"
+        }
+      ]
+    },
+    {
+      "LanguageSet": "VS_Main_Languages",
+      "LocItems": [
+        {
+          "SourceFile": "src\\System.Windows.Forms.Design\\src\\Resources\\xlf\\MaskDesignerDialog.xlf",
+          "Languages": "",
+          "CopyOption": "LangIDOnName",
+          "OutputPath": "src\\System.Windows.Forms.Design\\src\\Resources\\xlf\\",
+          "LclFile": "src\\System.Windows.Forms.Design\\src\\Resources\\lcl\\{Lang}\\MaskDesignerDialog.xlf.lcl"
+        }
+      ]
+    },
+    {
+      "LanguageSet": "VS_Main_Languages",
+      "LocItems": [
+        {
+          "SourceFile": "src\\System.Windows.Forms.Design\\src\\Resources\\xlf\\SR.xlf",
+          "Languages": "",
+          "CopyOption": "LangIDOnName",
+          "OutputPath": "src\\System.Windows.Forms.Design\\src\\Resources\\xlf\\",
+          "LclFile": "src\\System.Windows.Forms.Design\\src\\Resources\\lcl\\{Lang}\\SR.xlf.lcl"
+        }
+      ]
+    },
+    {
+      "LanguageSet": "VS_Main_Languages",
+      "LocItems": [
+        {
+          "SourceFile": "src\\System.Windows.Forms.Design\\src\\Resources\\xlf\\ShortcutKeysEditor.xlf",
+          "Languages": "",
+          "CopyOption": "LangIDOnName",
+          "OutputPath": "src\\System.Windows.Forms.Design\\src\\Resources\\xlf\\",
+          "LclFile": "src\\System.Windows.Forms.Design\\src\\Resources\\lcl\\{Lang}\\ShortcutKeysEditor.xlf.lcl"
+        }
+      ]
+    },
+    {
+      "LanguageSet": "VS_Main_Languages",
+      "LocItems": [
+        {
+          "SourceFile": "src\\System.Windows.Forms.Design\\src\\Resources\\xlf\\StringCollectionEditor.xlf",
+          "Languages": "",
+          "CopyOption": "LangIDOnName",
+          "OutputPath": "src\\System.Windows.Forms.Design\\src\\Resources\\xlf\\",
+          "LclFile": "src\\System.Windows.Forms.Design\\src\\Resources\\lcl\\{Lang}\\StringCollectionEditor.xlf.lcl"
+        }
+      ]
+    },
+    {
+      "LanguageSet": "VS_Main_Languages",
+      "LocItems": [
+        {
+          "SourceFile": "src\\System.Windows.Forms.Primitives\\src\\Resources\\xlf\\SR.xlf",
+          "Languages": "",
+          "CopyOption": "LangIDOnName",
+          "OutputPath": "src\\System.Windows.Forms.Primitives\\src\\Resources\\xlf\\",
+          "LclFile": "src\\System.Windows.Forms.Primitives\\src\\Resources\\lcl\\{Lang}\\SR.xlf.lcl"
+        }
+      ]
+    },
+    {
+      "LanguageSet": "VS_Main_Languages",
+      "LocItems": [
+        {
+          "SourceFile": "src\\System.Windows.Forms\\src\\Resources\\xlf\\SR.xlf",
+          "Languages": "",
+          "CopyOption": "LangIDOnName",
+          "OutputPath": "src\\System.Windows.Forms\\src\\Resources\\xlf\\",
+          "LclFile": "src\\System.Windows.Forms\\src\\Resources\\lcl\\{Lang}\\SR.xlf.lcl"
+        }
+      ]
+    },
+    {
+      "LanguageSet": "VS_Main_Languages",
+      "LocItems": [
+        {
+          "SourceFile": "src\\System.Windows.Forms\\tests\\IntegrationTests\\WinformsControlsTest\\xlf\\ListViewTest.xlf",
+          "Languages": "",
+          "CopyOption": "LangIDOnName",
+          "OutputPath": "src\\System.Windows.Forms\\tests\\IntegrationTests\\WinformsControlsTest\\xlf\\",
+          "LclFile": "src\\System.Windows.Forms\\tests\\IntegrationTests\\WinformsControlsTest\\lcl\\{Lang}\\ListViewTest.xlf.lcl"
+        }
+      ]
+    },
+    {
+      "LanguageSet": "VS_Main_Languages",
+      "LocItems": [
+        {
+          "SourceFile": "src\\System.Windows.Forms\\tests\\IntegrationTests\\WinformsControlsTest\\xlf\\Panels.xlf",
+          "Languages": "",
+          "CopyOption": "LangIDOnName",
+          "OutputPath": "src\\System.Windows.Forms\\tests\\IntegrationTests\\WinformsControlsTest\\xlf\\",
+          "LclFile": "src\\System.Windows.Forms\\tests\\IntegrationTests\\WinformsControlsTest\\lcl\\{Lang}\\Panels.xlf.lcl"
+        }
+      ]
+    },
+    {
+      "LanguageSet": "VS_Main_Languages",
+      "LocItems": [
+        {
+          "SourceFile": "src\\System.Windows.Forms\\tests\\IntegrationTests\\WinformsControlsTest\\xlf\\TreeViewTest.xlf",
+          "Languages": "",
+          "CopyOption": "LangIDOnName",
+          "OutputPath": "src\\System.Windows.Forms\\tests\\IntegrationTests\\WinformsControlsTest\\xlf\\",
+          "LclFile": "src\\System.Windows.Forms\\tests\\IntegrationTests\\WinformsControlsTest\\lcl\\{Lang}\\TreeViewTest.xlf.lcl"
+        }
+      ]
+    },
+    {
+      "LanguageSet": "VS_Main_Languages",
+      "LocItems": [
+        {
+          "SourceFile": "src\\Microsoft.VisualBasic.Forms\\src\\Resources\\Microsoft\\VisualBasic\\CompilerServices\\xlf\\VBInputBox.xlf",
+          "Languages": "",
+          "CopyOption": "LangIDOnName",
+          "OutputPath": "src\\Microsoft.VisualBasic.Forms\\src\\Resources\\Microsoft\\VisualBasic\\CompilerServices\\xlf\\",
+          "LclFile": "src\\Microsoft.VisualBasic.Forms\\src\\Resources\\Microsoft\\VisualBasic\\CompilerServices\\lcl\\{Lang}\\VBInputBox.xlf.lcl"
+        }
+      ]
+    },
+    {
+      "LanguageSet": "VS_Main_Languages",
+      "LocItems": [
+        {
+          "SourceFile": "src\\System.Windows.Forms.Design\\src\\Resources\\System\\ComponentModel\\Design\\xlf\\BinaryEditor.xlf",
+          "Languages": "",
+          "CopyOption": "LangIDOnName",
+          "OutputPath": "src\\System.Windows.Forms.Design\\src\\Resources\\System\\ComponentModel\\Design\\xlf\\",
+          "LclFile": "src\\System.Windows.Forms.Design\\src\\Resources\\System\\ComponentModel\\Design\\lcl\\{Lang}\\\\BinaryEditor.xlf"
+        }
+      ]
+    },
+    {
+      "LanguageSet": "VS_Main_Languages",
+      "LocItems": [
+        {
+          "SourceFile": "src\\System.Windows.Forms\\src\\Resources\\System\\Windows\\Forms\\xlf\\PrintPreviewDialog.xlf",
+          "Languages": "",
+          "CopyOption": "LangIDOnName",
+          "OutputPath": "src\\System.Windows.Forms\\src\\Resources\\System\\Windows\\Forms\\xlf\\",
+          "LclFile": "src\\System.Windows.Forms\\src\\Resources\\System\\Windows\\Forms\\lcl\\{Lang}\\PrintPreviewDialog.xlf"
+        }
+      ]
+    },
+    {
+      "LanguageSet": "VS_Main_Languages",
+      "LocItems": [
+        {
+          "SourceFile": "src\\System.Windows.Forms\\src\\Resources\\System\\Windows\\Forms\\xlf\\mdiwindowdialog.xlf",
+          "Languages": "",
+          "CopyOption": "LangIDOnName",
+          "OutputPath": "src\\System.Windows.Forms\\src\\Resources\\System\\Windows\\Forms\\xlf\\",
+          "LclFile": "src\\System.Windows.Forms\\src\\Resources\\System\\Windows\\Forms\\lcl\\{Lang}\\mdiwindowdialog.xlf"
+        }
+      ]
+    },
+    {
+      "LanguageSet": "VS_Main_Languages",
+      "LocItems": [
+        {
+          "SourceFile": "src\\Microsoft.VisualBasic.Forms\\src\\Resources\\Microsoft\\VisualBasic\\MyServices\\Internal\\xlf\\ProgressDialog.xlf",
+          "Languages": "",
+          "CopyOption": "LangIDOnName",
+          "OutputPath": "src\\Microsoft.VisualBasic.Forms\\src\\Resources\\Microsoft\\VisualBasic\\MyServices\\Internal\\xlf\\",
+          "LclFile": "src\\Microsoft.VisualBasic.Forms\\src\\Resources\\Microsoft\\VisualBasic\\MyServices\\Internal\\lcl\\{Lang}\\ProgressDialog.xlf.lcl"
+        }
+      ]
+    },
+    {
+      "LanguageSet": "VS_Main_Languages",
+      "LocItems": [
+        {
+          "SourceFile": "pkg\\Microsoft.Dotnet.WinForms.ProjectTemplates\\content\\WinFormsApplication-CSharp\\.template.config\\en\\string.json",
+          "Languages": "",
+          "CopyOption": "LangIDOnName",
+          "OutputPath": "pkg\\Microsoft.Dotnet.WinForms.ProjectTemplates\\content\\WinFormsApplication-CSharp\\.template.config\\",
+          "LclFile": "pkg\\Microsoft.Dotnet.WinForms.ProjectTemplates\\content\\WinFormsApplication-CSharp\\.template.config\\{Lang}\\string.json.lcl"
+        }
+      ]
+    },
+  ]
+}
