@@ -20,7 +20,7 @@
           "Languages": "",
           "CopyOption": "LangIDOnPath",
           "OutputPath": "src\\Microsoft.VisualBasic.Forms\\src\\Resources\\xlf\\",
-          "LclFile": "src\\Microsoft.VisualBasic.Forms\\src\\Resources\\xlf\\{Lang}\\SR.xlf.lcl"
+          "LclFile": "src\\Microsoft.VisualBasic.Forms\\src\\Resources\\lcl\\{Lang}\\SR.xlf.lcl"
         }
       ]
     },
