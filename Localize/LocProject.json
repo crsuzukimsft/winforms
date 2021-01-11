@@ -246,8 +246,8 @@
         {
           "SourceFile": "pkg\\Microsoft.Dotnet.WinForms.ProjectTemplates\\content\\WinFormsApplication-CSharp\\.template.config\\en\\strings.json",
           "Languages": "",
-          "CopyOption": "LangIDOnName",
-          "OutputPath": "pkg\\Microsoft.Dotnet.WinForms.ProjectTemplates\\content\\WinFormsApplication-CSharp\\.template.config\\{Lang}\\",
+          "CopyOption": "LangIDOnPath",
+          "OutputPath": "pkg\\Microsoft.Dotnet.WinForms.ProjectTemplates\\content\\WinFormsApplication-CSharp\\.template.config\\",
           "LclFile": "pkg\\Microsoft.Dotnet.WinForms.ProjectTemplates\\content\\WinFormsApplication-CSharp\\.template.config\\lcl\\{Lang}\\strings.json.lcl"
         }
       ]
