@@ -200,7 +200,7 @@
           "Languages": "",
           "CopyOption": "LangIDOnName",
           "OutputPath": "src\\System.Windows.Forms.Design\\src\\Resources\\System\\ComponentModel\\Design\\xlf\\",
-          "LclFile": "src\\System.Windows.Forms.Design\\src\\Resources\\System\\ComponentModel\\Design\\lcl\\{Lang}\\\\BinaryEditor.xlf"
+          "LclFile": "src\\System.Windows.Forms.Design\\src\\Resources\\System\\ComponentModel\\Design\\lcl\\{Lang}\\\\BinaryEditor.xlf.lcl"
         }
       ]
     },
@@ -212,7 +212,7 @@
           "Languages": "",
           "CopyOption": "LangIDOnName",
           "OutputPath": "src\\System.Windows.Forms\\src\\Resources\\System\\Windows\\Forms\\xlf\\",
-          "LclFile": "src\\System.Windows.Forms\\src\\Resources\\System\\Windows\\Forms\\lcl\\{Lang}\\PrintPreviewDialog.xlf"
+          "LclFile": "src\\System.Windows.Forms\\src\\Resources\\System\\Windows\\Forms\\lcl\\{Lang}\\PrintPreviewDialog.xlf.lcl"
         }
       ]
     },
@@ -224,7 +224,7 @@
           "Languages": "",
           "CopyOption": "LangIDOnName",
           "OutputPath": "src\\System.Windows.Forms\\src\\Resources\\System\\Windows\\Forms\\xlf\\",
-          "LclFile": "src\\System.Windows.Forms\\src\\Resources\\System\\Windows\\Forms\\lcl\\{Lang}\\mdiwindowdialog.xlf"
+          "LclFile": "src\\System.Windows.Forms\\src\\Resources\\System\\Windows\\Forms\\lcl\\{Lang}\\mdiwindowdialog.xlf.lcl"
         }
       ]
     },
@@ -248,9 +248,9 @@
           "Languages": "",
           "CopyOption": "LangIDOnName",
           "OutputPath": "pkg\\Microsoft.Dotnet.WinForms.ProjectTemplates\\content\\WinFormsApplication-CSharp\\.template.config\\",
-          "LclFile": "pkg\\Microsoft.Dotnet.WinForms.ProjectTemplates\\content\\WinFormsApplication-CSharp\\.template.config\\{Lang}\\string.json.lcl"
+          "LclFile": "pkg\\Microsoft.Dotnet.WinForms.ProjectTemplates\\content\\WinFormsApplication-CSharp\\.template.config\\lcl\\{Lang}\\string.json.lcl"
         }
       ]
-    },
+    }
   ]
 }
