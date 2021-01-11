@@ -244,11 +244,11 @@
       "LanguageSet": "VS_Main_Languages",
       "LocItems": [
         {
-          "SourceFile": "pkg\\Microsoft.Dotnet.WinForms.ProjectTemplates\\content\\WinFormsApplication-CSharp\\.template.config\\en\\string.json",
+          "SourceFile": "pkg\\Microsoft.Dotnet.WinForms.ProjectTemplates\\content\\WinFormsApplication-CSharp\\.template.config\\en\\strings.json",
           "Languages": "",
           "CopyOption": "LangIDOnName",
           "OutputPath": "pkg\\Microsoft.Dotnet.WinForms.ProjectTemplates\\content\\WinFormsApplication-CSharp\\.template.config\\",
-          "LclFile": "pkg\\Microsoft.Dotnet.WinForms.ProjectTemplates\\content\\WinFormsApplication-CSharp\\.template.config\\lcl\\{Lang}\\string.json.lcl"
+          "LclFile": "pkg\\Microsoft.Dotnet.WinForms.ProjectTemplates\\content\\WinFormsApplication-CSharp\\.template.config\\lcl\\{Lang}\\strings.json.lcl"
         }
       ]
     }
