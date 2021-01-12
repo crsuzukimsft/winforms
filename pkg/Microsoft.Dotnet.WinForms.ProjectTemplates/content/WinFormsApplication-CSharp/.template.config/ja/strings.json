@@ -1,7 +1,7 @@
 {
   "version": "1.0.0.0",
   "strings": {
-    "name": "Windows Forms App",
-    "description": "A project template for creating a .NET Windows Forms (WinForms) App."
+    "name": "Windows フォーム アプリ",
+    "description": ".NET Windows フォーム (WinForms) アプリを作成するためのプロジェクト テンプレート。"
   }
 }
